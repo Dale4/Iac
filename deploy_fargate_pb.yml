@@ -1,4 +1,4 @@
-- name: Deploy ECS Fargate
+- name: Deploy ECS Fargate to AWS
   hosts: localhost
   gather_facts: no
   roles:
